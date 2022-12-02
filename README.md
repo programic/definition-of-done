@@ -3,10 +3,10 @@ In order for a User Story to be considered "done", you need to check off all ite
 
 ## 1. The basics
 - [ ] Acceptance criteria met;
-- [ ] Code test is written based on the '[Code test decision table](/code-test-decision-table)';
+- [ ] Code test is written based on the '[Code test decision table](/code-test-decision-table.md)';
 - [ ] Code test passed;
 - [ ] Functional tests passed;
-- [ ] [Standard requirements](/standard-requirements) are met;
+- [ ] [Standard requirements](/standard-requirements.md) are met;
 - [ ] Product owner accepts the User Story.
 
 ## 2. Code reviewed
