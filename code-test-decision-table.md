@@ -1,7 +1,7 @@
 # Code test decision table
 To decide whether a test should be written, a risk analysis should be done according to the decision table below.
 
-<table style="text-align: center">
+<table>
   <tr>
     <th rowspan=5>Impact</th>
     <th nowrap>Very large</th>
@@ -52,11 +52,11 @@ To decide whether a test should be written, a risk analysis should be done accor
     <th nowrap>Very likely</th>
   </tr>
   <tr>
-    <th colspan="5" style="text-align: center">Chance</th>
+    <th colspan="5">Chance</th>
   </tr>
 </table>
 
 ## Explanation
-- **1 and 2:** No code test needed;
+- **1 - 2:** No code test needed;
 - **3 - 12:** A code test must be written, unless this is not justified due to cost or time involved and thus the business interest;
 - **15 - 25:** A code test must be written.
