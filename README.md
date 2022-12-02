@@ -9,7 +9,7 @@ In order for a User Story to be considered "done", you need to check off all ite
 - [ ] [Standard requirements](/standard-requirements.md) are met;
 - [ ] Product owner accepts the User Story.
 
-## 2. Code reviewed
+## 2. Code review
 The code was reviewed based on the ASVS level of the application.
 
 ### Pull request to develop
