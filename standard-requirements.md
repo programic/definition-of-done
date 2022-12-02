@@ -1,28 +1,11 @@
 # Standard requirements
+In order for a User Story to be considered 'done', you must check the required items that apply:
 
-In order for a user story to be deemed 'done' you need to check the required items:
-
-### Documentation
-- [ ] Technical start-up documentation is up-to-date
-
-### Data
-- [ ] Er zijn seeders geschreven of bijgewerkt, waarmee worden getest
-
-### Validation
-- [ ] Wachtwoorden worden gevalideerd o.b.v. het Programic wachtwoordbeleid
-
-### Logging
-- [ ] Significant user interaction is logged with reference to user and action.
-- [ ] These logs are only accessible to authorized users.
-
-### Exceptions
-
-### Encryptie
-
-- [ ] Strik vertrouwelijke informatie wordt encryped opgeslagen.
-- [ ] The URL of strictly confidential, confidential and internal files contains an authorization token that expires after x-number of hours.
-
-### Legal
-
-- [ ] Auteursrechten
-- [ ] AVG/GDPR wordt nageleefd
+- [ ] Start-up documentation for developers is up-to-date;
+- [ ] Test data is available for testing;
+- [ ] Passwords are validated based on the Programic password policy;
+- [ ] Strictly confidential information is stored encrypted;
+- [ ] The direct URL of strictly confidential information contains an authorization token which expires after a maximum of 24 hours;
+- [ ] Significant user interaction is logged with reference to user and action;
+- [ ] Exceptions are handled properly and not kept quiet unless really necessary.
+- [ ] We comply with Dutch Copyright Law and AVG/GDPR.
