@@ -1,8 +1,9 @@
 # Standard requirements
-In order for a User Story to be considered 'done', you must check the required items that apply:
+To consider an backlog item "done", you must check the required items that apply:
 
 
 - [ ] Test data is available for testing;
+- [ ] Input data is validated and filtered;
 - [ ] The code does not contain credentials;
 - [ ] Passwords are validated based on the Programic password policy;
 - [ ] Strictly confidential information is stored encrypted;

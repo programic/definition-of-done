@@ -1,19 +1,18 @@
 # Definition of Done
-In order for a user story to be considered "done", you need to check off all items:
+To consider an backlog item "done", you must check all the boxes:
 
-
-## 1. The basics
-- [ ] [Standard requirements](/standard-requirements.md) and user story requirements are met;
+- [ ] [Standard requirements](/standard-requirements.md) and backlog item requirements are met;
 - [ ] Coding standards are met;
+- [ ] Best practices are met;
 - [ ] Tests are written based on the [when to write a test](/when-to-write-a-test.md);
 - [ ] Tests passed;
-- [ ] Documentation has been written;
-- [ ] The [OWASP top 10 security risks](https://owasp.org/www-project-top-ten/) have been taken into account;
-- [ ] The code has been peer reviewed and approved (see: 2. Peer code review);
-- [ ] Product owner accepts the user story;
+- [ ] Start-up documentation for developers is up-to-date;
+- [ ] Necessary documentation has been written;
+- [ ] The code has been peer reviewed and approved (see: Peer review);
+- [ ] Product owner accepts the backlog item.
 
 
-## 2. Peer code review
+## Peer review
 The code was reviewed based on the ASVS level of the application.
 
 ### Pull request to develop
@@ -26,6 +25,7 @@ The code was reviewed based on the ASVS level of the application.
 - [ ] **ASVS 1/2:** Code has been reviewed by 1 reviewer;
 - [ ] **ASVS 3:** Code has been reviewed by 2 reviewers;
 - [ ] **ASVS 3:** Code is merged by someone from the DevOps team.
+
 
 ## About Programic
 

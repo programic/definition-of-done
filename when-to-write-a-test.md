@@ -1,5 +1,5 @@
 # When to write a test
-To decide whether a test should be written, a risk analysis should be done according to the decision table below.
+To decide whether a test should be written, a risk analysis should be done according to the decision table below:
 
 <table>
   <tr>
