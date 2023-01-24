@@ -7,6 +7,7 @@ In order for a user story to be considered "done", you need to check off all ite
 - [ ] Coding standards are met;
 - [ ] Tests are written based on the [when to write a test](/when-to-write-a-test.md);
 - [ ] Tests passed;
+- [ ] Documentation has been written;
 - [ ] The [OWASP top 10 security risks](https://owasp.org/www-project-top-ten/) have been taken into account;
 - [ ] The code has been peer reviewed and approved (see: 2. Peer code review);
 - [ ] Product owner accepts the user story;
