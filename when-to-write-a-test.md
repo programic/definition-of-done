@@ -57,6 +57,6 @@ To decide whether a test should be written, a risk analysis should be done accor
 </table>
 
 ## Explanation
-- **1 - 2:** No code test needed;
-- **3 - 12:** A code test must be written, unless this is not justified due to cost or time involved and thus the business interest;
-- **15 - 25:** A code test must be written.
+- **1 - 2:** No test needed;
+- **3 - 12:** A test must be written, unless this is not justified due to cost or time involved and thus the business interest;
+- **15 - 25:** A test must be written.
