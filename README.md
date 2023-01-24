@@ -3,7 +3,7 @@ In order for a user story to be considered "done", you need to check off all ite
 
 
 ## 1. The basics
-- [ ] Requirements and [standard requirements](/standard-requirements.md) are met;
+- [ ] [Standard requirements](/standard-requirements.md) and user story requirements are met;
 - [ ] Coding standards are met;
 - [ ] Tests are written based on the [when to write a test](/when-to-write-a-test.md);
 - [ ] Tests passed;
