@@ -1,15 +1,18 @@
 # Definition of Done
-In order for a User Story to be considered "done", you need to check off all items:
+In order for a user story to be considered "done", you need to check off all items:
+
 
 ## 1. The basics
-- [ ] Acceptance criteria met;
-- [ ] Code test is written based on the '[Code test decision table](/code-test-decision-table.md)';
-- [ ] Code test passed;
-- [ ] Functional tests passed;
-- [ ] [Standard requirements](/standard-requirements.md) are met;
-- [ ] Product owner accepts the User Story.
+- [ ] Requirements and [standard requirements](/standard-requirements.md) are met;
+- [ ] Coding standards are met;
+- [ ] Tests are written based on the [when to write a test](/when-to-write-a-test.md);
+- [ ] Tests passed;
+- [ ] The [OWASP top 10 security risks](https://owasp.org/www-project-top-ten/) have been taken into account;
+- [ ] The code has been peer reviewed and approved (see: 2. Peer code review);
+- [ ] Product owner accepts the user story;
 
-## 2. Code review
+
+## 2. Peer code review
 The code was reviewed based on the ASVS level of the application.
 
 ### Pull request to develop
