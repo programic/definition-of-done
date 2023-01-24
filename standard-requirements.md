@@ -1,6 +1,7 @@
 # Standard requirements
 In order for a User Story to be considered 'done', you must check the required items that apply:
 
+
 - [ ] Start-up documentation for developers is up-to-date;
 - [ ] Test data is available for testing;
 - [ ] The code does not contain credentials;
@@ -9,4 +10,3 @@ In order for a User Story to be considered 'done', you must check the required i
 - [ ] The direct URL of strictly confidential information contains an authorization token which expires after a maximum of 24 hours;
 - [ ] Significant user interaction is logged with reference to user and action;
 - [ ] Exceptions are handled properly and not kept quiet unless really necessary.
-- [ ] We comply with Dutch Copyright Law and AVG/GDPR.
